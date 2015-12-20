@@ -1,0 +1,11 @@
+{
+  "name": "resin-plex",
+  "description": "Simple resin app that uses Plex Media Server",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jerseyweeds/resinPlexTest.git"
+  },
+  "scripts": {
+    "preinstall": "bash deps.sh"
+  }
+}
